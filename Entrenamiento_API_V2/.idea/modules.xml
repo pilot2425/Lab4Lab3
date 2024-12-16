@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Entrenamiento_api.iml" filepath="$PROJECT_DIR$/Entrenamiento_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrenamiento_API_V2.iml" filepath="$PROJECT_DIR$/Entrenamiento_API_V2.iml" />
     </modules>
   </component>
 </project>
